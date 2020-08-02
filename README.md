@@ -1,6 +1,6 @@
 # awesome-interview-resources
 
-## Categories
+# Categories
 
 ## Must Do Questions
 ### Strings
