@@ -1,10 +1,11 @@
-# awesome-interview-resources
+# awesome-interview-resources 
+
 
 # Categories
 
 ## Must Do Questions
 ### Strings
-1. https://www.interviewbit.com/problems/minimum-appends-for-palindrome/   ``` Tags: #LPS #Array #KMP #Algorithm #Facebook ```
+1. https://www.interviewbit.com/problems/minimum-appends-for-palindrome/ ![](https://img.shields.io/badge/Tag-KMP-blue)  ``` Tags: #LPS #Array #KMP #Algorithm #Facebook ```
 
 ## Resources
 - A summary: how to use **Bit Manipulation** to solve problems easily and efficiently [Link](https://leetcode.com/problems/validate-ip-address/discuss/?currentPage=1&orderBy=most_votes&query=)
