@@ -10,6 +10,7 @@
 - A summary: how to use **Bit Manipulation** to solve problems easily and efficiently [Link](https://leetcode.com/problems/validate-ip-address/discuss/?currentPage=1&orderBy=most_votes&query=)
 
 - Top 100 liked questions **LeetCode** [Link](https://leetcode.com/problemset/top-100-liked-questions/)
+- Top **100 questions** topic wise PDF 
 
 ## Pro Tips For Competative Programming 
 
